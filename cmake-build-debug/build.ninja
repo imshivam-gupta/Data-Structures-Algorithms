@@ -103,6 +103,90 @@ build CMakeFiles/DSA.dir/DynamicProgramming/CSES/BookShop.cpp.o: CXX_COMPILER__D
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/DynamicProgramming/CSES
 
+build CMakeFiles/DSA.dir/DynamicProgramming/CSES/ArrayDescription.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /home/shivam/Desktop/Projects/DSA/DynamicProgramming/CSES/ArrayDescription.cpp || cmake_object_order_depends_target_DSA
+  DEP_FILE = CMakeFiles/DSA.dir/DynamicProgramming/CSES/ArrayDescription.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA.dir/DynamicProgramming/CSES
+
+build CMakeFiles/DSA.dir/Graphs/CSES/Monsters.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /home/shivam/Desktop/Projects/DSA/Graphs/CSES/Monsters.cpp || cmake_object_order_depends_target_DSA
+  DEP_FILE = CMakeFiles/DSA.dir/Graphs/CSES/Monsters.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA.dir/Graphs/CSES
+
+build CMakeFiles/DSA.dir/Graphs/Learning/AdjacencyMatrixRep.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /home/shivam/Desktop/Projects/DSA/Graphs/Learning/AdjacencyMatrixRep.cpp || cmake_object_order_depends_target_DSA
+  DEP_FILE = CMakeFiles/DSA.dir/Graphs/Learning/AdjacencyMatrixRep.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA.dir/Graphs/Learning
+
+build CMakeFiles/DSA.dir/Graphs/Learning/formatted.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /home/shivam/Desktop/Projects/DSA/Graphs/Learning/formatted.cpp || cmake_object_order_depends_target_DSA
+  DEP_FILE = CMakeFiles/DSA.dir/Graphs/Learning/formatted.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA.dir/Graphs/Learning
+
+build CMakeFiles/DSA.dir/Graphs/Learning/AdjacencyListRep.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /home/shivam/Desktop/Projects/DSA/Graphs/Learning/AdjacencyListRep.cpp || cmake_object_order_depends_target_DSA
+  DEP_FILE = CMakeFiles/DSA.dir/Graphs/Learning/AdjacencyListRep.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA.dir/Graphs/Learning
+
+build CMakeFiles/DSA.dir/Graphs/Learning/BFS.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /home/shivam/Desktop/Projects/DSA/Graphs/Learning/BFS.cpp || cmake_object_order_depends_target_DSA
+  DEP_FILE = CMakeFiles/DSA.dir/Graphs/Learning/BFS.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA.dir/Graphs/Learning
+
+build CMakeFiles/DSA.dir/GenericTrees/CSES/Subordinates.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /home/shivam/Desktop/Projects/DSA/GenericTrees/CSES/Subordinates.cpp || cmake_object_order_depends_target_DSA
+  DEP_FILE = CMakeFiles/DSA.dir/GenericTrees/CSES/Subordinates.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA.dir/GenericTrees/CSES
+
+build CMakeFiles/DSA.dir/GenericTrees/CSES/csesformat.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /home/shivam/Desktop/Projects/DSA/GenericTrees/CSES/csesformat.cpp || cmake_object_order_depends_target_DSA
+  DEP_FILE = CMakeFiles/DSA.dir/GenericTrees/CSES/csesformat.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA.dir/GenericTrees/CSES
+
+build CMakeFiles/DSA.dir/GenericTrees/CSES/TreeMatching.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /home/shivam/Desktop/Projects/DSA/GenericTrees/CSES/TreeMatching.cpp || cmake_object_order_depends_target_DSA
+  DEP_FILE = CMakeFiles/DSA.dir/GenericTrees/CSES/TreeMatching.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA.dir/GenericTrees/CSES
+
+build CMakeFiles/DSA.dir/GenericTrees/CSES/TreeDiameter.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /home/shivam/Desktop/Projects/DSA/GenericTrees/CSES/TreeDiameter.cpp || cmake_object_order_depends_target_DSA
+  DEP_FILE = CMakeFiles/DSA.dir/GenericTrees/CSES/TreeDiameter.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA.dir/GenericTrees/CSES
+
+build CMakeFiles/DSA.dir/GenericTrees/CSES/TreeDistanceI.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /home/shivam/Desktop/Projects/DSA/GenericTrees/CSES/TreeDistanceI.cpp || cmake_object_order_depends_target_DSA
+  DEP_FILE = CMakeFiles/DSA.dir/GenericTrees/CSES/TreeDistanceI.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA.dir/GenericTrees/CSES
+
+build CMakeFiles/DSA.dir/GenericTrees/CSES/TreeDistanceII.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /home/shivam/Desktop/Projects/DSA/GenericTrees/CSES/TreeDistanceII.cpp || cmake_object_order_depends_target_DSA
+  DEP_FILE = CMakeFiles/DSA.dir/GenericTrees/CSES/TreeDistanceII.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA.dir/GenericTrees/CSES
+
+build CMakeFiles/DSA.dir/GenericTrees/Learning/Traversal.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /home/shivam/Desktop/Projects/DSA/GenericTrees/Learning/Traversal.cpp || cmake_object_order_depends_target_DSA
+  DEP_FILE = CMakeFiles/DSA.dir/GenericTrees/Learning/Traversal.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA.dir/GenericTrees/Learning
+
+build CMakeFiles/DSA.dir/GenericTrees/Learning/LCA.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /home/shivam/Desktop/Projects/DSA/GenericTrees/Learning/LCA.cpp || cmake_object_order_depends_target_DSA
+  DEP_FILE = CMakeFiles/DSA.dir/GenericTrees/Learning/LCA.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA.dir/GenericTrees/Learning
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target DSA
@@ -111,7 +195,7 @@ build CMakeFiles/DSA.dir/DynamicProgramming/CSES/BookShop.cpp.o: CXX_COMPILER__D
 #############################################
 # Link the executable DSA
 
-build DSA: CXX_EXECUTABLE_LINKER__DSA_Debug CMakeFiles/DSA.dir/main.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/CSES/CoinCombinationsI.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/CSES/DiceCombinations.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/CSES/MinimizingCoins.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/CSES/CoinCombinationsII.cpp.o CMakeFiles/DSA.dir/Adhoc/SpecialSubset.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/CSES/RemovingDigits.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/CSES/GridPaths.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/CSES/BookShop.cpp.o
+build DSA: CXX_EXECUTABLE_LINKER__DSA_Debug CMakeFiles/DSA.dir/main.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/CSES/CoinCombinationsI.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/CSES/DiceCombinations.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/CSES/MinimizingCoins.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/CSES/CoinCombinationsII.cpp.o CMakeFiles/DSA.dir/Adhoc/SpecialSubset.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/CSES/RemovingDigits.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/CSES/GridPaths.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/CSES/BookShop.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/CSES/ArrayDescription.cpp.o CMakeFiles/DSA.dir/Graphs/CSES/Monsters.cpp.o CMakeFiles/DSA.dir/Graphs/Learning/AdjacencyMatrixRep.cpp.o CMakeFiles/DSA.dir/Graphs/Learning/formatted.cpp.o CMakeFiles/DSA.dir/Graphs/Learning/AdjacencyListRep.cpp.o CMakeFiles/DSA.dir/Graphs/Learning/BFS.cpp.o CMakeFiles/DSA.dir/GenericTrees/CSES/Subordinates.cpp.o CMakeFiles/DSA.dir/GenericTrees/CSES/csesformat.cpp.o CMakeFiles/DSA.dir/GenericTrees/CSES/TreeMatching.cpp.o CMakeFiles/DSA.dir/GenericTrees/CSES/TreeDiameter.cpp.o CMakeFiles/DSA.dir/GenericTrees/CSES/TreeDistanceI.cpp.o CMakeFiles/DSA.dir/GenericTrees/CSES/TreeDistanceII.cpp.o CMakeFiles/DSA.dir/GenericTrees/Learning/Traversal.cpp.o CMakeFiles/DSA.dir/GenericTrees/Learning/LCA.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/DSA.dir
   POST_BUILD = :

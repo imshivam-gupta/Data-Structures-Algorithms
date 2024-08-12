@@ -1,6 +1,12 @@
 #include <bits/stdc++.h>
 
 #include "DynamicProgramming/CSES/CoinCombinationsI.cpp"
+#include "GenericTrees/CSES/Subordinates.cpp"
+#include "GenericTrees/CSES/TreeMatching.cpp"
+#include "GenericTrees/CSES/TreeDiameter.cpp"
+#include "GenericTrees/CSES/TreeDistanceI.cpp"
+#include "GenericTrees/CSES/TreeDistanceII.cpp"
+#include "Graphs/Learning/BFS.cpp"
 #include "DynamicProgramming/CSES/RemovingDigits.cpp"
 #include "DynamicProgramming/CSES/CoinCombinationsII.cpp"
 #include "DynamicProgramming/CSES/DiceCombinations.cpp"
@@ -73,6 +79,95 @@ int main() {
 
     // Problem 9: Array Description(https://cses.fi/problemset/task/1746)
     // dp[m][m][m]
+
+    // Learning Graphs
+    // int n, m;
+    // cin >> n >> m;
+    //
+    // Graph g(n, m);
+    //
+    // for(int i = 0; i < m; i++) {
+    //     int u, v;
+    //     cin >> u >> v;
+    //     g.addEdge(u, v);  // Use the dot operator to call member functions
+    // }
+    //
+    // g.visualiseGraph();
+
+    // BFS
+    // int n, m;
+    // cin >> n >> m;
+    // Graph g(n, m);
+    // for(int i = 0; i < m; i++) {
+    //     int u, v;
+    //     cin >> u >> v;
+    //     g.addEdge(u, v);
+    // }
+    //
+    // g.visualiseGraph();
+    //
+    // vector<int> bfsResult = g.bfsOfGraph(n);
+    // cout << "BFS Traversal of the Graph:" << endl;
+    // for(int i : bfsResult) {
+    //     cout << i << " ";
+    // }
+    // cout << endl;
+
+    // Trees Problem 1
+    // int n; cin >> n;
+    // vector<int> bosses(n-1);
+    // for(int i=0;i<n-1;i++) {
+    //     cin >> bosses[i];
+    // }
+    //
+    // vector<int> ans = Subordinates::findSubordinates(n,bosses);
+    // for(int i=1;i<ans.size();i++) {
+    //     cout << ans[i] << endl;
+    // }
+
+    // Trees Problem 2
+    // int n; cin >> n;
+    // vector<vector<int>> edges;
+    // for(int i=1;i<n;i++) {
+    //     int u,v; cin >> u >>v;
+    //     edges.push_back({u,v});
+    // }
+    // cout << TreeMatching::maximumEdges(n,edges) << endl;
+
+    // // Trees Problem 3
+    // int n; cin >> n;
+    // vector<vector<long long>> edges;
+    // for(int i=1;i<n;i++) {
+    //     int u,v; cin >> u >>v;
+    //     edges.push_back({u,v});
+    // }
+    // cout << TreeDiameter::diameter(n,edges) << endl;
+
+    // Trees Problem 4
+    // int n; cin >> n;
+    // vector<vector<long>> edges;
+    // for(int i=1;i<n;i++) {
+    //     int u,v; cin >> u >>v;
+    //     edges.push_back({u,v});
+    // }
+    // vector<long> ans = TreeDistanceI::maxDistance(n,edges);
+    // for(int i=1;i<ans.size();i++) {
+    //     cout << ans[i] << " ";
+    // }
+
+    // Trees Problem 5
+    int n; cin >> n;
+    vector<vector<long>> edges;
+    for(int i=1;i<n;i++) {
+        int u,v; cin >> u >>v;
+        edges.push_back({u,v});
+    }
+    vector<long> ans = TreeDistanceII::sumDistance(n,edges);
+    for(int i=1;i<ans.size();i++) {
+        cout << ans[i] << " ";
+    }
+
+
 
     return 0;
 }
